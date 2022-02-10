@@ -1,1 +1,1 @@
-# learning-python-in-1h
+# selflearning-python
